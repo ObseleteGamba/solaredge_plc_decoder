@@ -1,4 +1,4 @@
-# solaredge_decoder
+# solaredge_plc_decoder
 Solar Edge PLC Decoder and Control for Powerline interaction, debug and test
 This project allows decoding and interaction with SolarEdge Power Line Communication.
 Release is currently pending until legal clarification has been finalized.
